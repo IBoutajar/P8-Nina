@@ -6,13 +6,6 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
-
-.carousel-item {
-	height: 100%;
-}
-.carousel-inner {
-	height: 100%;
-}
 .top-header {
 	background-color: white;
 	position: sticky;
@@ -55,6 +48,16 @@ body {
 	padding-inline: 100px;
 	padding-block: 100px;
 	position: relative;
+}
+
+.carousel-item img{
+	height: 100%;
+	width: 100%;
+}
+
+#about img{
+	height: 100%;
+	width: 100%;
 }
 
 .picture.left::before {
