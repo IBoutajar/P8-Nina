@@ -5,7 +5,7 @@ body {
 * {
 	font-family: 'Inter', sans-serif;
 	font-style: normal;
-	font-display: optional;
+	font-display: swap;
 }
 .top-header {
 	background-color: white;
