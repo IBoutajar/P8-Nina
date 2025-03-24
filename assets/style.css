@@ -7,6 +7,9 @@ body {
 	font-style: normal;
 }
 
+.carousel-inner {
+	height: 703px;
+}
 
 .top-header {
 	background-color: white;
